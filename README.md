@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hey there! I'm Ahmad Irfan ✨</h1>
-<h3 align="center">Software Engineering Student | Flutter Explorer | Tech Enthusiast</h3>
+<h1 align="center">🚀 Hello World! I'm Ahmad Irfan 👨‍💻</h1>
+<h3 align="center">Software Engineering Student | Flutter Explorer | Code Enthusiast</h3>
 
 ---
 
