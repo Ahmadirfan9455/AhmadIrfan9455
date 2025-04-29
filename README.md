@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmad Irfan</h1>
-<h3 align="center">CS Student | Aspiring Developer | FAST NUCES CFD</h3>
+<h3 align="center">Software Engineering Student | Aspiring Developer | FAST NUCES CFD</h3>
 
 ---
 
-🎓 **Computer Science Undergraduate**  
+🎓 **Software Engineering Undergraduate**  
 🏠 From **Chiniot**, Pakistan  
 🏫 Studying at **FAST NUCES, Chiniot-Faisalabad Campus**  
-💡 Passionate about tech, clean code, and meaningful projects  
-🚀 Currently diving into **Flutter**, **Firebase**, and **Full Stack Web Development**  
-🐍 Strong interest in **Python scripting**, **automation**, and **problem-solving**
+💡 Passionate about technology, clean architecture, and building meaningful software  
+🚀 Currently exploring **Flutter**, **Firebase**, and **Full Stack Web Development**  
+🐍 Enthusiastic about **Python scripting**, **automation**, and solving real-world problems
 
 ---
 
@@ -31,12 +31,10 @@
 
 Check out some of my most recent and notable projects:
 
- - **[Aamozish (Flutter)](#)** – A language learning app built with Flutter, focused on Arabic and Persian. Utilizes Firebase for real-time data storage and user management.
- - **[Student Portal Clone (Flutter)](#)** – A replica student portal built using Flutter and Firebase for learning authentication and data storage.
- - **[Stochastic Modeling (Python)](#)** – A Python project featuring a Flask backend for analyzing stochastic models such as Markov Chains, Hidden Markov Models, and Queuing Theory. 
-                                           Implements RESTful APIs for state classification, probabilistic analysis, and M/M/1 queue calculations..
+- **[Aamozish (Flutter)](#)** – A language learning app built with Flutter, focused on Arabic and Persian. Utilizes Firebase for real-time data storage and user management.
+- **[Stochastic Modeling (Python)](#)** – A Python + Flask project for simulating stochastic systems like Markov Chains, Hidden Markov Models, and M/M/1 queues. Includes REST APIs for probabilistic analysis and state predictions.
 
-> 🐍 I often use **Python** for quick scripting, solving DSA problems, and backend tasks.
+> 🐍 I often use **Python** for quick scripting, solving DSA problems, and backend microservices.
 
 ---
 
