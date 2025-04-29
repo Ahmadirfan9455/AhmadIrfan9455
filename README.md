@@ -4,10 +4,11 @@
 ---
 
 🎓 **Computer Science Undergraduate**  
-🏠 From **Loonay Wala**, Pakistan  
+🏠 From **Chiniot**, Pakistan  
 🏫 Studying at **FAST NUCES, Chiniot-Faisalabad Campus**  
 💡 Passionate about tech, clean code, and meaningful projects  
-🚀 Currently diving into **Flutter**, **Firebase**, and **Full Stack Web Development**
+🚀 Currently diving into **Flutter**, **Firebase**, and **Full Stack Web Development**  
+🐍 Strong interest in **Python scripting**, **automation**, and **problem-solving**
 
 ---
 
@@ -26,12 +27,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 My Projects & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="47%" />
-</p>
+Check out some of my most recent and notable projects:
+
+ - **[Aamozish (Flutter)](#)** – A language learning app built with Flutter, focused on Arabic and Persian. Utilizes Firebase for real-time data storage and user management.
+ - **[Student Portal Clone (Flutter)](#)** – A replica student portal built using Flutter and Firebase for learning authentication and data storage.
+ - **[Stochastic Modeling (Python)](#)** – A Python project featuring a Flask backend for analyzing stochastic models such as Markov Chains, Hidden Markov Models, and Queuing Theory. 
+                                           Implements RESTful APIs for state classification, probabilistic analysis, and M/M/1 queue calculations..
+
+> 🐍 I often use **Python** for quick scripting, solving DSA problems, and backend tasks.
 
 ---
 
