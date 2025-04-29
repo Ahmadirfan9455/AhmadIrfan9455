@@ -4,11 +4,11 @@
 ---
 
 🎓 **Software Engineering Undergraduate**  
-🏠 From **Chiniot**, Pakistan  
-🏫 Studying at **FAST NUCES, Chiniot-Faisalabad Campus**  
-💡 Passionate about technology, clean architecture, and building meaningful software  
-🚀 Currently exploring **Flutter**, **Firebase**, and **Full Stack Web Development**  
-🐍 Enthusiastic about **Python scripting**, **automation**, and solving real-world problems
+🏠 Based in **Chiniot, Pakistan**  
+🏫 Currently pursuing my degree at **FAST NUCES, Chiniot-Faisalabad Campus**  
+💡 Passionate about software design, clean code practices, and building purposeful digital products  
+🚀 Gaining hands-on experience in **Flutter**, **Firebase**, and **Full Stack Web Development**  
+🐍 Enthusiastic about **Python scripting**, automation, and solving real-world challenges through code
 
 ---
 
